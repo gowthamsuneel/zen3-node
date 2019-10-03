@@ -6,7 +6,7 @@
 - Clone this repository
 - Go to zen3-node folder
 - npm i
-- Start local mongodb serveer
+- Start local mongodb server
 - npm start
 
 
